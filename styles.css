@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+
+h1 {
+  font-size: 4rem;
+  color: #201A26;
+  text-decoration: underline; 
+}
+
+.value {
+  font-size: 6rem   ;
+  color: #201A26;
+}
+
+.container {
+  border: 3px solid black;
+  border-radius: 10px;
+  max-width: 600px;
+  padding: 25px;
+}
